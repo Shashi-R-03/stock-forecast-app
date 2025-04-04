@@ -2,7 +2,7 @@
 
 This project is a web-based stock forecasting tool built with [Streamlit](https://streamlit.io) that allows users to select a stock, fetch historical data from Yahoo Finance using [yfinance](https://pypi.org/project/yfinance/), and forecast future stock prices using [Facebook Prophet](https://facebook.github.io/prophet/). Interactive visualizations are created with [Plotly](https://plotly.com) and data manipulation is handled by [pandas](https://pandas.pydata.org).
 
-![App Preview](assets/preview.png)
+![App Preview](preview.png)
 
 ---
 
